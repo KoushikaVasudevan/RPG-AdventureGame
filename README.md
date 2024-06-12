@@ -16,4 +16,5 @@ The Player plays 6 levels fighting different enemies at different levels.
 **Level 6** - The Citadel - fighting **The Mighty Murlocs**.
 
 Press 'a' to attack the enemy and 'h' to heal.
+
 Defeat The Mighty Murlocs in the final level inorder to win the game.
